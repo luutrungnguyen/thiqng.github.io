@@ -1,2 +1,2 @@
-# ThyQNg.github.io
+# ThiQNg.github.io
 # HPBD muc
